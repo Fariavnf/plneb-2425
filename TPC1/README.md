@@ -12,11 +12,11 @@ A função conta o número de vogais numa dada string.  Percorre a string, e se 
 
 ## Exercício 4
 
-É aplicada numa string o metodo ** .lower() ** para devolver essa string em minúsculas.
+É aplicada numa string o metodo **.lower()** para devolver essa string em minúsculas.
 
 ## Exercício 5
 
-É aplicada numa string o metodo ** .upper() ** para devolver essa string em maiúsculas.
+É aplicada numa string o metodo **.upper()** para devolver essa string em maiúsculas.
 
 ## Exercício 6
 
@@ -28,7 +28,7 @@ A função verifica se todos os caracteres de uma string1 estão presentes na st
 
 ## Exercício 8
 
-A função conta quantas vezes a string1 aparece como substring dentro da string2.  Se string1 for vazia, retorna 0. Caso contrário, procura por string1 dentro de string2 usando um loop e o método find().  Incrementa um contador a cada ocorrência encontrada. Retorna o número total de ocorrências. Esta função funciona para ** ocorrências sobrepostas **.
+A função conta quantas vezes a string1 aparece como substring dentro da string2.  Se string1 for vazia, retorna 0. Caso contrário, procura por string1 dentro de string2 usando um loop e o método find().  Incrementa um contador a cada ocorrência encontrada. Retorna o número total de ocorrências. Esta função funciona para **ocorrências sobrepostas**.
 
 ## Exercício 9
 
