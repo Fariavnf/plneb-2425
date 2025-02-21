@@ -51,17 +51,5 @@ print(inteiros("42 4,3.-400. 33.-3,2 69"))
 
 ## Exercício 9
 
-```python
-import re
-
-def underscores(linha):
-  return re.sub(r"(?<!^)(?<!\s)\s+(?!\s*$)",'_',linha)
-
-
-print(underscores("Vou comprar 6 maças, 4 bananas e 2 laranjas"))
-print(underscores("  Eu não    sei se eu quero    continuar a ser eu. Por outro lado, eu ser eu é uma parte importante de quem EU sou.  "))
-
-```
-
 
 ## Exercício 10
