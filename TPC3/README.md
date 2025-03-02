@@ -8,13 +8,13 @@ Comparando com a resolução efetuada na aula houve apenas uma alteração no c�
 
 text = re.sub(r"\n\n", "\n\n@", text)
 
-'''
+```
 
 foi substituida por:
 
-'''python
+```python
 
 text = re.sub(r"(\n\n)(.*)\n{1,}", r"\1@\2\n", text)
 
-'''
+```
 
