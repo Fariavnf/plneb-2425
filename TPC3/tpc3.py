@@ -11,7 +11,7 @@ def aula3():
     text = file.read()
 
     # limpar
-    text = re.sub(r"\f", "", text, 0)
+    text = re.sub(r"\f", "", text)
 
     # colocar marca
     text = re.sub(r"(\n\n)(.*)\n{1,}", r"\1@\2\n", text)
