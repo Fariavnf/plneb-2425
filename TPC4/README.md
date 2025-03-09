@@ -14,4 +14,4 @@
 - **JavaScript** para controlos de áudio interactivos.
 
 
-🔹 **Criado com paixão pelos adeptos do FC Porto. Viva Pinto da Costa!** 🔹
+
