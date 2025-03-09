@@ -11,4 +11,7 @@
 - ## 🖥️ Tecnologias utilizadas
 
 - **HTML e CSS** para a estrutura e o estilo.  
-- **JavaScript** para controlos de áudio interactivos. 
+- **JavaScript** para controlos de áudio interactivos.
+
+
+🔹 **Criado com paixão pelos adeptos do FC Porto. Viva Pinto da Costa!** 🔹
