@@ -10,9 +10,12 @@ Esta é uma pequena aplicação Web Flask concebida para apresentar uma lista de
 ## ⚙️ Routes 
 
 - `/conceitos`  
+
   Apresenta uma lista de todos os termos do conceito.
+  
 - `/conceitos/<termo>`
-   Apresenta a descrição do conceito selecionado.
+
+  Apresenta a descrição do conceito selecionado.
 
   ## 🧩 Templates
 
