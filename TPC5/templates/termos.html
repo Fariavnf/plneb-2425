@@ -1,0 +1,21 @@
+{% extends 'layout.html' %}
+
+
+{% block head %}
+<title>{{title}}</title>
+{% endblock %}
+
+
+{% block body %}
+
+<ul>
+    {% for termo in termos %}
+
+        <li>
+            <a href="{{ url_for('conceito_termo', termo=termo) }}">{{ termo }}</a>
+        </li>
+
+    {% endfor %}
+</ul>
+
+{% endblock %}
