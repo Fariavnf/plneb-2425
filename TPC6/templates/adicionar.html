@@ -1,0 +1,22 @@
+{% extends 'layout.html' %}
+
+{% block body %}
+
+
+    <form action="/api/adicionar" method="POST">
+
+      <div class="mb-3">
+        <label for="termo_input" class="form-label">Termo</label>
+        <input type="text" class="form-control" id="termo_input" name="termo">
+      </div>
+
+      <div class="mb-3">
+        <label for="desc_input" class="form-label">Descrição</label>
+        <input type="text" class="form-control" id="desc_input" name="descricao">
+      </div>
+
+      <button type="submit" class="btn btn-primary">Adicionar</button>
+
+    </form>
+
+{% endblock %}
