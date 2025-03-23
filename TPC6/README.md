@@ -11,7 +11,7 @@ Esta é uma pequena aplicação Web Flask concebida para apresentar uma lista de
 - Mostrar uma lista de conceitos de um ficheiro JSON.
 - Mostrar descrições detalhadas de cada conceito.
 - Adicionar novos conceitos através de um formulário.
-- Pesquisar conceitos com suporte para busca normal e busca por correspondência exata (termo completo).
+- Pesquisar conceitos com suporte para busca normal e busca por correspondência exata (termo exato).
 
 ## ⚙️ Routes 
 
