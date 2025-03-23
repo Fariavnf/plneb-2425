@@ -15,14 +15,14 @@ Esta é uma pequena aplicação Web Flask concebida para apresentar uma lista de
 
 - `/conceitos`  
 
-  Apresenta uma lista de todos os termos do conceito.
+Apresenta uma lista de todos os termos do conceito.
   
 - `/conceitos/<termo>`
 
-  Apresenta a descrição do conceito selecionado.
+Apresenta a descrição do conceito selecionado.
 
-  ## 🧩 Templates
+## 🧩 Templates
 
-  Usa Jinja2 para renderizar HTML dinamicamente.
+Usa Jinja2 para renderizar HTML dinamicamente.
 
 
