@@ -58,12 +58,12 @@ Usa Jinja2 para renderizar HTML dinamicamente.
 
 A aplicação usa várias bibliotecas para um design responsivo e interatividade:
 
-*Flask* – Framework backend para servir as páginas e gerenciar conceitos.
+- **Flask** – Framework backend para servir as páginas e gerenciar conceitos.
 
-*Bootstrap* – Para um layout responsivo e estilizado.
+- **Bootstrap** – Para um layout responsivo e estilizado.
 
-*jQuery* – Para manipulação dinâmica do DOM e requisições AJAX.
+- **jQuery** – Para manipulação dinâmica do DOM e requisições AJAX.
 
-*DataTables.js* – Para criar tabelas interativas com pesquisa instantânea com suporte para regex, ordenação dinâmica e paginação automática.
+- **DataTables.js** – Para criar tabelas interativas com pesquisa instantânea com suporte para regex, ordenação dinâmica e paginação automática.
 
 
