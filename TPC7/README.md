@@ -48,8 +48,8 @@ Permite apagar um conceito via AJAX.
 Usa Jinja2 para renderizar HTML dinamicamente.
 
 - `home.html>` – Página principal após adicionar um conceito.
--`conceitos.html>` – Lista de todos os conceitos.
--`table.html` - Tabela interativa com conceitos.
+- `conceitos.html>` – Lista de todos os conceitos.
+- `table.html` - Tabela interativa com conceitos.
 - `descricao.html>` – Descrição detalhada de um conceito.
 - `adicionar.html>` – Formulário para adicionar um novo conceito.
 - `pesquisa.html>` – Resultados da pesquisa.
