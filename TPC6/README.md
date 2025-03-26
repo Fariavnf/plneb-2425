@@ -1,7 +1,3 @@
-
-<h1>Meter as novas features</h1>
-
-
 <h1>TPC6 - Flask Concept Viewer</h1>
 
 Esta é uma pequena aplicação Web Flask concebida para apresentar uma lista de conceitos e as suas descrições correspondentes, que são carregadas a partir de um ficheiro JSON (conceitos.json).
