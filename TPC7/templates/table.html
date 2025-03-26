@@ -1,0 +1,40 @@
+{% extends 'layout.html' %}
+
+
+{% block head %}
+<title>{{title}}</title>
+{% endblock %}
+
+
+{% block body %}
+
+<style>
+   #myTable tr:hover {
+        --bs-table-hover-bg: #2B3035
+    }
+    #myTable tr:hover td,
+    #myTable tr:hover td a {
+        color: #9FA2A4
+    }
+</style>
+
+<table id="myTable" class="table table-striped table-hover">
+    <thead>
+        <tr>
+            <th>Termo</th>
+            <th>Descrição</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for termo, desc in conceitos %}
+            <tr>
+                <td><a href="/conceitos/{{ termo }}" class="list-group-item list-group-item-action">{{ termo }}</a></td>
+                <td>{{ desc }}</td>
+            </tr>
+        {% endfor %}
+    </tbody>
+</table>
+
+
+
+{% endblock %}
