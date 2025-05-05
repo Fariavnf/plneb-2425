@@ -14,4 +14,12 @@ In this specific project, a pre-trained embedding model—most likely trained on
 
 
 
+## Testes
+
+São efetuados implicitamente vários testes para avaliar a qualidade da incorporação. Ao inspecionar os vizinhos mais próximos de uma determinada palavra, é possível avaliar até que ponto o modelo capta as relações semânticas. Os padrões visuais - tais como grupos de palavras relacionadas ou agrupamentos significativos - confirmam ainda mais a coerência do espaço vetorial.
+
+Esta visualização não é apenas um elemento técnico, mas também uma ferramenta de exploração linguística. Permite que os utilizadores procurem termos específicos, vejam como os conceitos linguísticos estão agrupados e compreendam melhor como os modelos de aprendizagem automática percepcionam os dados textuais.
+
+## Visualização com Embedding Projector
+
 ![](print.png)
