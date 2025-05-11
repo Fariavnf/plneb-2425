@@ -58,7 +58,8 @@ Este script Python extrai dados de publicação da [Revista da Sociedade Portugu
             },
             ...
         ]
-      ...
+    },
+  ...
 }
 ```
 
