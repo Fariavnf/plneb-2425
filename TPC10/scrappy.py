@@ -246,8 +246,13 @@ def find_pub_content():
 
 
 if __name__ == "__main__":
+    # Passo 1: Obter todos os Issue
     #find_issue()
+
+    # Passo 2: Obter publicações para cada Issue
     #find_issue_pubs()
+
+    # Passo 3: Obter conteúdos pormenorizados para cada publicação
     find_pub_content()
 
 
